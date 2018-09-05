@@ -1,0 +1,12 @@
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\Medico.mdf
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\Medico_log.ldf
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\CapaDatos.dll.config
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\CapaDatos.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\CapaDatos.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\EntityFramework.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\EntityFramework.xml
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\obj\Debug\CapaDatos.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaDatos\obj\Debug\CapaDatos.pdb

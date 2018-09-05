@@ -1,0 +1,11 @@
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\Medico.mdf
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\Medico_log.ldf
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\CapaNegocio.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\CapaNegocio.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\CapaDatos.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\EntityFramework.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\CapaDatos.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\bin\Debug\EntityFramework.xml
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\obj\Debug\CapaNegocio.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\slnMedicoPaciente\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MedicoModelStoreContainer" CdmEntityContainer="MedicoEntities1">
+    <EntitySetMapping Name="tblMedico">
+      <EntityTypeMapping TypeName="IsTypeOf(MedicoModel.tblMedico)">
+        <MappingFragment StoreEntitySet="tblMedico">
+          <ScalarProperty Name="Id_Medico" ColumnName="Id_Medico" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Especialidad" ColumnName="Especialidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPaciente">
+      <EntityTypeMapping TypeName="IsTypeOf(MedicoModel.tblPaciente)">
+        <MappingFragment StoreEntitySet="tblPaciente">
+          <ScalarProperty Name="Id_Paciente" ColumnName="Id_Paciente" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Edad" ColumnName="Edad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
